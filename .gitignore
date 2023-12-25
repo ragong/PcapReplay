@@ -1,0 +1,7 @@
+.idea
+*.zip
+*.log
+*.rar
+*.pcap
+PCapReplay
+*.exe
